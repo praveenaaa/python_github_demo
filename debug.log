@@ -1,0 +1,8 @@
+[0221/141246.862:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\PRAVIN~1.SIN\AppData\Local\Temp\scoped_dir12372_959715858\Crashpad: The system cannot find the file specified. (0x2)
+[0221/141537.911:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\PRAVIN~1.SIN\AppData\Local\Temp\scoped_dir15988_1291455623\Crashpad: The system cannot find the file specified. (0x2)
+[0221/141738.080:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\PRAVIN~1.SIN\AppData\Local\Temp\scoped_dir18232_827295186\Crashpad: The system cannot find the file specified. (0x2)
+[0221/141818.632:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\PRAVIN~1.SIN\AppData\Local\Temp\scoped_dir14764_1506738105\Crashpad: The system cannot find the file specified. (0x2)
+[0221/142404.221:ERROR:prune_crash_reports.cc(35)] PruneCrashReportDatabase: Failed to get pending reports
+[0221/142421.238:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\PRAVIN~1.SIN\AppData\Local\Temp\scoped_dir1140_187370937\Crashpad: The system cannot find the file specified. (0x2)
+[0221/142505.258:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\PRAVIN~1.SIN\AppData\Local\Temp\scoped_dir2172_1171298868\Crashpad: The system cannot find the file specified. (0x2)
+[0227/094829.920:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\PRAVIN~1.SIN\AppData\Local\Temp\scoped_dir7664_934550726\Crashpad: The system cannot find the file specified. (0x2)
